@@ -1,6 +1,6 @@
 #created func2 
 
-def func(x,y,z):
-    return x+y+z
+def func(a,b,c,d,e):
+    return a+b+c+d+e
 
 #changed by ayush
